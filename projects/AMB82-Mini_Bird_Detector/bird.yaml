@@ -1,0 +1,5 @@
+train: projects/AMB82-Mini_Bird_Detector/bird-dataset/images/train
+val: projects/AMB82-Mini_Bird_Detector/bird-dataset/images/val
+
+nc: 1
+names: ['bird']
